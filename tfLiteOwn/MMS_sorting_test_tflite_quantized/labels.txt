@@ -1,0 +1,8 @@
+0 Wood
+1 Steel Circle
+2 Box_Steel
+3 VBlock_Steel
+4 Ball_Steel
+5 BlueBall_plastic
+6 Empty
+    
